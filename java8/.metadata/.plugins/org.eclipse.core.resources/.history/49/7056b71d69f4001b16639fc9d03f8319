@@ -1,0 +1,16 @@
+package com.abhi.java8;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CheckOnYourOwn {
+	
+
+	
+	public static void main(String[] args) {
+		List<Integer> ls = new ArrayList<Integer>();
+		ls.add(0, 12);
+		System.out.println(ls);
+	}
+
+}

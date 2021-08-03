@@ -1,0 +1,16 @@
+package com.abhi.LE;
+
+interface Name {
+	void yourName(); //Functional Interface, interface method is by default public
+}
+
+//In this case we are not implementing interface but will use it anonymosly
+public class WithoutLE_Exp_2 {
+	
+	Name obj = new Name() {
+		public void yourName() {
+			System.out.println("My Name is Tiwari !!");
+		};
+	};
+
+}

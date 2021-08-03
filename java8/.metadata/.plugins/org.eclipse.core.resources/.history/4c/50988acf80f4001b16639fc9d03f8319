@@ -1,0 +1,22 @@
+package com.abhi.stream;
+
+import java.util.stream.Stream;
+
+public class CreateStreamObject {
+	public static void main(String[] args) {
+		
+		//Stream API - collection process
+		//Collection group of object
+		
+		//1- blank
+		Stream<Object> emptyStream = Stream.empty();
+		emptyStream.forEach(e -> System.out.println(e));
+		
+		String names[] = {"Abhishek","Akhi","Harshit"};
+		Stream<String> stream1 = Stream.of(names);
+		stream1.forEach(e -> System.out.println(e));
+		
+	}
+
+}
+	

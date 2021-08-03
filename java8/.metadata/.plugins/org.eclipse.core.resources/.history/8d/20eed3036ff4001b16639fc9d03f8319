@@ -1,0 +1,11 @@
+package com.abhi.java8;
+
+interface Phone() {
+	void call();
+}
+
+
+
+public class DemoJava8Interface {
+
+}

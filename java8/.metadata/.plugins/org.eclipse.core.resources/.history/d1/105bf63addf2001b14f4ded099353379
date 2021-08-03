@@ -1,0 +1,27 @@
+package com.abhi;
+
+public class EnhancedForLoop {
+	public static void main(String args[]) {
+		// --------------------------------------For each for int
+		int arr[] = { 12, 13, 14, 44 };
+		// traversing the array with for-each loop
+		for (int i : arr) {
+			System.out.println(i);
+		}
+		
+		//------------------------------------For each for String
+		String str[] = {"Hello", "Pello", "Mello", "Lelo", "Kello"};
+		for (String i : str) {
+			System.out.println(i);
+		}
+		
+		//------------------------------------Getting total number
+		   int arr2[]={12,13,14,44};  
+		   int total=0;  
+		   for(int i:arr2){  
+		     total=total+i;  
+		   }  
+		  System.out.println("Total: "+total); 
+	}
+
+}

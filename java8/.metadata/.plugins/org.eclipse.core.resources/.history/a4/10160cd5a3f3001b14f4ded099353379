@@ -1,0 +1,9 @@
+package com.abhi.LE;
+
+interface Name() {
+	void yourName();
+}
+
+public class WithoutLE_Exp_2 {
+
+}

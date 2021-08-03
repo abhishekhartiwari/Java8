@@ -1,0 +1,10 @@
+package com.abhi.LE;
+
+interface Name {
+	void yourName(); //Functional Interface, interface method is by default public
+}
+
+
+public class WithoutLE_Exp_2 {
+
+}

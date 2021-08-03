@@ -1,0 +1,9 @@
+package com.abhi.stream;
+
+public class CreateStreamObject {
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
