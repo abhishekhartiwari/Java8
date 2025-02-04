@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Test_LocalDate",
+            "request": "launch",
+            "mainClass": "com.abhi.DateTime.Test_LocalDate",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.abhi.DateTime.Main",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "OperationOnStream",
+            "request": "launch",
+            "mainClass": "com.abhi.StreamNew.OperationOnStream",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "CreateStream",
+            "request": "launch",
+            "mainClass": "com.abhi.StreamNew.CreateStream",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "MyStream",
+            "request": "launch",
+            "mainClass": "com.abhi.StreamNew.MyStream",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "Students",
+            "request": "launch",
+            "mainClass": "com.abhi.ConstructorReference.Students",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "com.abhi.MethodReference.Test",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "MySupplier",
+            "request": "launch",
+            "mainClass": "com.abhi.Supplier.MySupplier",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "MyConsumer",
+            "request": "launch",
+            "mainClass": "com.abhi.Consumer.MyConsumer",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "FunctionInterface",
+            "request": "launch",
+            "mainClass": "com.abhi.Function.FunctionInterface",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedForLoop",
+            "request": "launch",
+            "mainClass": "com.abhi.EnhancedFor.EnhancedForLoop",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "com.abhi.Java8_Features.Functional_Interface.MyClass",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "LE_ForEventListener",
+            "request": "launch",
+            "mainClass": "com.abhi.LE.LE_ForEventListener",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "WithLE_Expression",
+            "request": "launch",
+            "mainClass": "com.abhi.LE.WithLE_Expression",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "WithoutLE_Exp_1",
+            "request": "launch",
+            "mainClass": "com.abhi.LE.WithoutLE_Exp_1",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "WithoutLE_Exp_2",
+            "request": "launch",
+            "mainClass": "com.abhi.LE.WithoutLE_Exp_2",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "ArraylistForEach",
+            "request": "launch",
+            "mainClass": "com.abhi.java8.ArraylistForEach",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "CheckOnYourOwn",
+            "request": "launch",
+            "mainClass": "com.abhi.java8.CheckOnYourOwn",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "DemoForEach",
+            "request": "launch",
+            "mainClass": "com.abhi.java8.DemoForEach",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "DemoJava8Interface",
+            "request": "launch",
+            "mainClass": "com.abhi.java8.DemoJava8Interface",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "CreateStreamObject",
+            "request": "launch",
+            "mainClass": "com.abhi.stream.CreateStreamObject",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "com.abhi.stream.Methods",
+            "projectName": "Java8_d502fba1"
+        },
+        {
+            "type": "java",
+            "name": "Stream_1",
+            "request": "launch",
+            "mainClass": "com.abhi.stream.Stream_1",
+            "projectName": "Java8_d502fba1"
+        }
+    ]
+}

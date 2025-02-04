@@ -44,7 +44,8 @@ public class DemoForEach {
 		//ls.forEach(cc);
 		
 		//More short, by using forEach method & LE together, forEach method should have consumer type argument
-		ls.forEach((i) -> System.out.println(i));
+		//ls.forEach((i) -> System.out.println(i));
+		ls.forEach(System.out::println);
 		
 	}
 
